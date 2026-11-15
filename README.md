@@ -279,8 +279,7 @@ measurements from multiple profiles.
 
 ## Author and project information
 
-Add the author's name, institution, project title, version, licence and
-contact details here if the code will be shared publicly.
+Raji Babatunde Muhammed, University of Lagos, version 1.
 
 ## Disclaimer
 
